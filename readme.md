@@ -1,5 +1,5 @@
 
-		*** SETUP AND COMPILATION *******
+					SETUP AND COMPILATION 
 
 0. git clone : https://github.com/sugammaheshwari/Flatbuffer-Cross-Platform-Serialisation-Encoder-Decoder-Utility-
 
@@ -29,8 +29,7 @@
 		- Produces the decoded output of Person and Group data on the terminal.
 
 
-		
-		***** SCHEMAS *****
+					SCHEMAS 
 
 table Msg{
         len:int32;			// to decode the messege according to the messege length

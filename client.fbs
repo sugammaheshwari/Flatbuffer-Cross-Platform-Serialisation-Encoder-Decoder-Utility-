@@ -1,0 +1,22 @@
+
+
+table Msg{
+	len:int32;
+}
+
+table Person{
+	id:int16;
+	name:string;
+	age:short;
+	weight:float;
+	gender:bool;
+}
+
+table Group{
+	id:int16;
+        name:string;
+        avg_age:float;
+        avg_weight:float;
+        names_cnt:int16;
+	names:[string];
+}
